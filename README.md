@@ -24,7 +24,7 @@ Simply download the files in this repository and upload the code to your WIO Ter
 
 ## Authors
 
-- **Sawyer Bailey Paccione** - *Initial work* - [Portfolio](sawyerbaileypaccione.tech)
+- **Sawyer Bailey Paccione** - *Initial work* - [Portfolio](http://sawyerbaileypaccione.tech/)
 
 ## License
 
