@@ -2,6 +2,8 @@
 
 A simple vertically scrolling video game in which the player views the field of play principally from a top-down perspective, while the background scrolls from the top of the screen to the bottom. This creates the illusion that the player character is moving in the game world.
 
+![](https://media.giphy.com/media/8pGMtD6UaAjDVzmZMp/giphy.gif)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
